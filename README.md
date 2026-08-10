@@ -1,5 +1,7 @@
 # 📚 企业知识库 RAG 系统
-
+git add data/屏幕截图 2026-08-10 095802.png
+git commit -m "添加截图"
+git push
 **CorpRAG：Department-Aware RAG System for Enterprise Documents**
 
 基于 **LangChain + Streamlit + Chroma + DeepSeek** 构建的轻量级 RAG（检索增强生成）项目，支持文档上传、向量化存储、多轮对话问答，并可按部门筛选知识范围。
